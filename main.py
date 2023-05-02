@@ -56,6 +56,7 @@ def get_trades(coin1="btc", coin2="usd", limit=150):
 
     return info
 
+
 def main():
     # print(get_info())
     # print(get_ticker())
